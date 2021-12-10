@@ -48,3 +48,30 @@
     background-repeat: no-repeat;
     scroll-snap-align: start;
 }
+
+.part-two {
+    height: 100vh;
+    width: 100vw;
+    background: url("./iss-part2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    scroll-snap-align: start;
+}
+
+.python-two {
+    height: 100vh;
+    width: 100vw;
+    background: url("./python-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    scroll-snap-align: start;
+}
+
+.javascript-two {
+    height: 100vh;
+    width: 100vw;
+    background: url("./javascript-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    scroll-snap-align: start;
+}
